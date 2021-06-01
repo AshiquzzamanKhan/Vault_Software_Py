@@ -79,7 +79,7 @@ service-identity==17.0.0
 six==1.11.0
 stevedore==1.28.0
 Twisted==17.9.0
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.19.0
 wheel==0.30.0
 WMI==1.4.9
