@@ -81,7 +81,7 @@ stevedore==1.28.0
 Twisted==17.9.0
 urllib3==1.22
 w3lib==1.19.0
-wheel==0.30.0
+wheel==0.38.1
 WMI==1.4.9
 wrapt==1.10.11
 zope.interface==4.4.3
